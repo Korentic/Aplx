@@ -1,6 +1,7 @@
 # Aplx-
 
 ps **MASSIVE** update coming *SOON*..
+(**NOT SO SUBTLE FORESHADOW, updates coming tomorrow**)
 _________________________________________________________________________________________________________________________________
 
 **PREVIEW**
