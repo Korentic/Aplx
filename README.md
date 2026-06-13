@@ -31,7 +31,7 @@ how to use :- First, copy paste on visual studios or any coding app you use.
 
 --> Run via [!terminal]. Must have **python** installed, if not installed, type "sudo apt install python3" (tested because i tried it on my VM), after installing, do "cd (placename where you kept it, most preferred desktop because its easier to navigate from there, fully optional)". After that, simply type this "python3 aplx.py (or anything you kept the name as, and must have .py , to let the system know you are opening the python file)"
 
----
+___________________________________________________________________________________________________________________________
 **HOW TO MAKE IT RUN?**
 
 -> MUST HAVE OLLAMA (V3.2)
@@ -80,6 +80,9 @@ ________________________________________________________________________________
 -> Rest all typer and base maker = me (Dumbass-sudo)
 
 -> For V1.4 Devin AI was used
+_________________________________________________________________________________________________________________________
+
+**INSTRUCTIONS HAVE BEEN GIVEN IN THE APLX_V1.4_ANDROID ON HOW TO INSTALL AND RUN aplx.py ON ANDROID SYSTEMS!!**
 _________________________________________________________________________________________________________________________
 
 **Future plans** :-
