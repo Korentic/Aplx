@@ -14,7 +14,7 @@ So, This is a massive project made by me, **"R3nz"**.
 
 This Aplx IS NOW AVAILABLE IN **EVERY** OS INCLUDING ANDROID (ps, Android version doesnt need ollama and i havent made it have ollama due to storage issue).
 
-Happy to anounce that Jarvis (the ironman assistant) has been renamed officially to 'Aplx AI™' , with most features same as my previous "Jarvis" project but Aplx AI™ has smoother interactive text after a month of developing!
+Happy to anounce that Jarvis (the ironman assistant) has been renamed officially to 'Aplx AI™' , with most features same as my previous "Jarvis" project but Aplx AI™ has smoother interactive text after 3 month of developing!
 
 _________________________________________________________________________________________________________________________
 
