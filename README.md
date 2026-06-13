@@ -10,7 +10,7 @@ ________________________________________________________________________________
 
 _________________________________________________________________________________________________________________________________
 
-So, This is a massive project made by me, **"Dumbass-sudo"**. 
+So, This is a massive project made by me, **"R3nz"**. 
 
 This Aplx IS NOW AVAILABLE IN **EVERY** OS INCLUDING ANDROID (ps, Android version doesnt need ollama and i havent made it have ollama due to storage issue).
 
