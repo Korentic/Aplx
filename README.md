@@ -1,18 +1,18 @@
 # Aplx-
 
-ps **MASSIVE** update coming *SOON*..
-(**NOT SO SUBTLE FORESHADOW, updates coming tomorrow**)
+
 _________________________________________________________________________________________________________________________________
 
 **PREVIEW**
 
-![image alt](https://github.com/ayushk190524-sudo/JARVIS---Aplx/blob/main/Screenshot_2026-05-13_13-56-24.png?raw=true)
+
+![image alt](https://github.com/aplx-renz-sudo/JARVIS---Aplx/blob/main/Screenshot_2026-06-13_18-18-58.png)
 
 _________________________________________________________________________________________________________________________________
 
 So, This is a massive project made by me, **"Dumbass-sudo"**. 
 
-This model is currently only for linux, Not available for windows, yet. Modifications will be made.
+This Aplx IS NOW AVAILABLE IN **EVERY** OS INCLUDING ANDROID (ps, Android version doesnt need ollama and i havent made it have ollama due to storage issue).
 
 Happy to anounce that Jarvis (the ironman assistant) has been renamed officially to 'Aplx AI™' , with most features same as my previous "Jarvis" project but Aplx AI™ has smoother interactive text after a month of developing!
 
@@ -20,7 +20,7 @@ ________________________________________________________________________________
 
 **HOW TO USE?**
 
-so. this is currently only for Ubuntu systems, But can be modified to any system the user likes.
+so. this is currently FOR **EVERY** OS!, But can be modified to any system the user likes.
 
 how to use :- First, copy paste on visual studios or any coding app you use.
 --> Then, modify the name to what you like, since i kept **"R3nz (Renz)"**, you can simply modifiy it accordingly to how you like to be called from Aplx.
@@ -30,6 +30,19 @@ how to use :- First, copy paste on visual studios or any coding app you use.
 --> To change it to the broswer you like, simply just change the "FireFox" to any browser you use, Just so you know, it might be case sensitive so please type the browser name properly.
 
 --> Run via [!terminal]. Must have **python** installed, if not installed, type "sudo apt install python3" (tested because i tried it on my VM), after installing, do "cd (placename where you kept it, most preferred desktop because its easier to navigate from there, fully optional)". After that, simply type this "python3 aplx.py (or anything you kept the name as, and must have .py , to let the system know you are opening the python file)"
+
+---
+**HOW TO MAKE IT RUN?**
+
+-> MUST HAVE OLLAMA (V3.2)
+
+ -> Open the aplx.py file through visual studios
+ 
+ -> go to visual studios and enter chat mode with the AI
+ 
+ -> Ask the AI to connect Ollama PATH file to the aplx.py
+ 
+ -> Lastly make it allocate storage (would be told in /help feature)
 
 _________________________________________________________________________________________________________________________
 
@@ -44,6 +57,8 @@ ________________________________________________________________________________
 NOW APLX IS FULLY OVERHAULED AND UX AND UI HAS BEEN CUSTOM MADE WITH BETTER USER EXPERIENCE WITH ACTUAL INTERACTIVE PRESPECTIVE FOR BOTH USER AND BOT!  *(always check the sha256 code, confirm it by asking the bot. Sha256 code :-d811f70af482aced1adeedcc5bc0362206c6222713a3940c393446fb0fe7083a)*
 
 --> MASSIVE **GUI OVERHAUL MADE WITH BETTER THAN EVER EXPERIENCE!!**
+
+--> NOW THE AI CAN DO BASIC BIG LANGUAGE CODING (i.e, Rust, assembly) BUT CAN DO FULL CODING IN BASIC LANGUAGES!!
 
 _________________________________________________________________________________________________________________________
 
@@ -64,12 +79,13 @@ ________________________________________________________________________________
 
 -> Rest all typer and base maker = me (Dumbass-sudo)
 
+-> For V1.4 Devin AI was used
 _________________________________________________________________________________________________________________________
 
 **Future plans** :-
 
-Making a MacOS version of this bot along with windows version of this bot. And also having a separate app to run it rather than on the terminal (currently in development). So, im doing this alone, with AI assistance to help fix and refine the codes. Yes, i refined Aplx AI™ 3 times before uploading it, tho its different that it broke like, 5-6 times before refining, And theres no separate API so expect less power from this bot. Also taking update suggestions from the community from my discord, to join, its in my profile socials. Do make sure to join and give suggestions! plus ill be busy since im turning 15 in few months and starting collage soon, so yeah!
+Making it read screen, adding a whole **APP** for aplx.py so you all wouldnt have to use terminal again and again!
 
 -Your Dumbass
 
--Dumbass-sudo
+-Dumbass-sudo (R3nz)
