@@ -268,14 +268,9 @@
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-✨ NOT YET READY FOR PRODUCTION — BETA TESTING ONLY ✨
-
-   Just run: python aplx.py
-   In Linux: python3 aplx.py
-
-   ✨ Simple to run, but expect rough edges! ✨
-
-   Your universal AI assistant will start on most platforms!
+CodeX Helped in major fixing of bugs of annoying chat that
+showed what the AI thought before responding, GPT-5.6 helped
+in making sure there were no bugs before pushing it.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
