@@ -1,6 +1,6 @@
 # 『 ＡＰＬＸ　１．５ 』
 
-# PREVIEW :-
+## PREVIEW :-
 
 ![Project Screenshot](https://github.com/aplx-renz-sudo/JARVIS---Aplx/blob/main/Screenshot%202026-07-17%20215948.png)
 
