@@ -1,5 +1,11 @@
 # 『 ＡＰＬＸ　１．５ 』
 
+# PREVIEW :-
+
+![Project Screenshot](https://github.com/aplx-renz-sudo/JARVIS---Aplx/blob/main/Screenshot%202026-07-17%20215948.png)
+
+
+
 🚀 Aplx - Terminal AI Assistant
 
 Aplx is a lightweight, privacy-first terminal-based AI assistant with a hybrid online/offline architecture, cross-platform support, and a fully customizable ANSI theme engine.
