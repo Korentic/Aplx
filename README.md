@@ -1,3 +1,5 @@
+# 『 ＡＰＬＸ　１．５ 』
+
 🚀 Aplx - Terminal AI Assistant
 
 Aplx is a lightweight, privacy-first terminal-based AI assistant with a hybrid online/offline architecture, cross-platform support, and a fully customizable ANSI theme engine.
@@ -173,8 +175,5 @@ MIT License - see LICENSE file for details
 
 ---
 
-Made by R3nz 👨‍💻
+Made by R3nz 
 
-Questions? Open an issue or reach out!
-
-Aplx v1.5 - Built for developers, by developers.
