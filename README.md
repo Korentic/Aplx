@@ -89,21 +89,17 @@ Setup
 
 ```bash
 
-# Clone and install
+# install and run
 
-git clone https://github.com/aplx-renz-sudo/aplx.git
+Install the files from here
 
-cd aplx
+Place the aplx_1.5.py file within the desktop (mostly preferred) for easier access
 
-pip install -r requirements.txt
+Have python intalled along with ollama
 
+And then open the terminal and
 
-# Start Ollama server (optional)
-
-ollama serve
-
-
-# Run Aplx
+Run Aplx
 
 python aplx_1_5.py
 
@@ -186,4 +182,5 @@ MΛDΣ BY,
 
 ʀ3ռʐ ⁠ツ
 
+『 A １５　ＹＥＡＲ　ＯＬＤ　ＤＥＶ！』
 
