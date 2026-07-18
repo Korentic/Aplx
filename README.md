@@ -180,6 +180,10 @@ Mobile development: Full Termux/Android support
 MIT License - see LICENSE file for details
 
 ---
+MΛDΣ BY,
 
-Made by R3nz 
+𝚢𝚘𝚞𝚛𝚜 𝚊𝚗𝚍 𝚘𝚗𝚕𝚢,
+
+ʀ3ռʐ ⁠ツ
+
 
