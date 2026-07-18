@@ -6,7 +6,7 @@ ________________________________________________________________________________
 **PREVIEW**
 
 
-![image alt](https://github.com/aplx-renz-sudo/JARVIS---Aplx/blob/main/Screenshot_2026-06-13_18-18-58.png)
+![image alt](https://github.com/aplx-renz-sudo/JARVIS---Aplx/blob/main/Screenshot%202026-07-17%20215948.png)
 
 _________________________________________________________________________________________________________________________________
 
