@@ -182,5 +182,5 @@ MΛDΣ BY,
 
 ʀ3ռʐ ⁠ツ
 
-『 A １５　ＹＥＡＲ　ＯＬＤ　ＤＥＶ！』
+『 A DEV THATS A TEENAGER (>18) 💀』
 
