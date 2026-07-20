@@ -1,8 +1,8 @@
 # 『 ＡＰＬＸ　１．５ 』
 
-##LOGO :-
+## LOGO :-
 
-![Project Screenshot](https://github.com/aplx-renz-sudo/JARVIS---Aplx/blob/main/file_000000004f4881fa9eb0fba8883f8ed4.png).
+![Project Screenshot](https://github.com/aplx-renz-sudo/JARVIS---Aplx/blob/main/file_000000004f4881fa9eb0fba8883f8ed4.png)
 
 ## PREVIEW :-
 
