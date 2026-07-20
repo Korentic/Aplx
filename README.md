@@ -179,6 +179,11 @@ Mobile development: Full Termux/Android support
 
 MIT License - see LICENSE file for details
 
+✨CODEX AND GPT-5.6 USEAGE AREA✨ 
+
+I used GPT-5.6 through Codex to help implement and debug major features like the command system, project management, theme customization, model switching, and bug fixes.
+GPT-5.6 also helped review architecture decisions, improve code quality!
+
 ---
 MΛDΣ BY,
 
