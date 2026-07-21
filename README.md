@@ -191,7 +191,4 @@ MΛDΣ BY,
 
 𝚢𝚘𝚞𝚛𝚜 𝚊𝚗𝚍 𝚘𝚗𝚕𝚢,
 
-ʀ3ռʐ ⁠ツ
-
-『 A DEV THATS A TEENAGER (15) lol 💀』
-
+ʀ3ռʐ 
