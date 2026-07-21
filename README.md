@@ -45,7 +45,7 @@ Smart storage allocation with disk usage tracking
 💬 Dual-Mode Interface
 
 Chat mode: Natural conversations with context awareness
-Code mode: Specialized responses for programming tasks
+Code mode(STILL IN BETA TESTING!): Specialized responses for programming tasks
 Support for Python, JavaScript, TypeScript, C++, Rust, Go, and more
 Syntax highlighting & keyword detection across 10+ languages
 
@@ -70,12 +70,12 @@ python aplx_1_5.py
 python aplx_1_5.py --query "explain quantum computing" --mode chat
 
 
-# Code mode
+# Code mode(BETA)
 
 python aplx_1_5.py --query "write a fibonacci function" --mode code
 
 
-# File I/O (C++ integration)
+# File I/O (C++ integration, BETA)
 
 python aplx_1_5.py --input query.txt --output response.txt
 
