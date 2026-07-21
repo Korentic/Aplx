@@ -191,5 +191,5 @@ MΛDΣ BY,
 
 ʀ3ռʐ ⁠ツ
 
-『 A DEV THATS A TEENAGER (>18) 💀』
+『 A DEV THATS A TEENAGER (15) lol 💀』
 
