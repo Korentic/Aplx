@@ -1,6 +1,6 @@
 # 『 ＡＰＬＸ　１．５ 』
 
-## ＡＰＬＸ　ＬＬＭ　ＩＳ　ＣＵＲＲＥＮＴＬＹ　ＤＯＷＮ　ＡＮＤ　ＷＩＬＬ　ＮＯＴ　ＷＯＲＫ－　ＩＴ　ＩＳ　Ａ　ＴＥＣＨＮＩＣＡＬ　ＩＳＳＵＥ　ＦＲＯＭ　ＭＹ　ＳＩＤＥ！　ＰＬＥＡＳＥ　ＷＡＩＴ　ＵＮＴＩＬ　ＩＴ　ＩＳ　ＵＰ　ＡＧＡＩＮ！ ( THIS WONT WORK ON ANY DEVICES SINCE THE "aplx_test.py" IS MISSING AND I SWITCHED OS AND FORGOT TO SAVE IT, PLEASE WAIT UNTIL I RECOVER IT!)
+## ＡＰＬＸ　ＬＬＭ　ＩＳ　ＣＵＲＲＥＮＴＬＹ　ＤＯＷＮ　ＡＮＤ　ＷＩＬＬ　ＮＯＴ　ＷＯＲＫ－　(Only the custom Aplx llm wont work) ＩＴ　ＩＳ　Ａ　ＴＥＣＨＮＩＣＡＬ　ＩＳＳＵＥ　ＦＲＯＭ　ＭＹ　ＳＩＤＥ！　ＰＬＥＡＳＥ　ＷＡＩＴ　ＵＮＴＩＬ　ＩＴ　ＩＳ　ＵＰ　ＡＧＡＩＮ！ ( THIS WONT WORK ON ANY DEVICES SINCE THE "aplx_test.py" IS MISSING AND I SWITCHED OS AND FORGOT TO SAVE IT, PLEASE WAIT UNTIL I RECOVER IT!)
 
 ## LOGO :-
 
