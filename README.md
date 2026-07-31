@@ -6,7 +6,7 @@
 
 # While switching operating systems, the aplx_test.py file was accidentally lost and is currently being recovered.
 
-# Affecte ❌ :
+# Affected ❌ :
 
 # ❌ Aplx LLM (currently unavailable)
 
