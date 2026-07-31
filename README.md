@@ -1,10 +1,24 @@
-# 『 ＡＰＬＸ　１．５ 』
+## 『 ＡＰＬＸ　１．５ 』
 ----------------------------------------------------------------------------------------------------------------------------------------------
-# ⚠️ISSUES SECTION⚠️
+# ⚠️ Issues section ⚠️
 
-# ⚠️ＡＰＬＸ　ＬＬＭ　ＩＳ　ＣＵＲＲＥＮＴＬＹ　ＤＯＷＮ　ＡＮＤ　ＷＩＬＬ　ＮＯＴ　ＷＯＲＫ－　(Only the custom Aplx llm wont work) ＩＴ　ＩＳ　Ａ　ＴＥＣＨＮＩＣＡＬ　ＩＳＳＵＥ　ＦＲＯＭ　ＭＹ　ＳＩＤＥ！　ＰＬＥＡＳＥ　ＷＡＩＴ　ＵＮＴＩＬ　ＩＴ　ＩＳ　ＵＰ　ＡＧＡＩＮ！ ( THIS WONT WORK ON ANY DEVICES SINCE THE "aplx_test.py" IS MISSING AND I SWITCHED OS AND FORGOT TO SAVE IT, PLEASE WAIT UNTIL I RECOVER IT! Also to remove the confusion, every other functions and AI will work fine, except the aplx llm, since its the main issue currently) ⚠️
+# The Aplx LLM is temporarily unavailable.
 
-# -Thank you for your cooperation during this downtime, I will try and get it up ASAP!
+# While switching operating systems, the aplx_test.py file was accidentally lost and is currently being recovered.
+
+# Affecte ❌ :
+
+# ❌ Aplx LLM (currently unavailable)
+
+# Still Working ✅ :
+
+# ✅ All other AI features
+# ✅ Terminal commands
+# ✅ External AI integrations
+# ✅ Other project functionality
+
+# I'm working on restoring the missing file ASAP! Thank you for your patience.
+
 # - R3nz
 ----------------------------------------------------------------------------------------------------------------------------------------------
 ## LOGO :-
