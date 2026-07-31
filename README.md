@@ -21,11 +21,11 @@
 
 # - R3nz
 ----------------------------------------------------------------------------------------------------------------------------------------------
-## LOGO :-
+# LOGO :-
 
 ![Project Screenshot](https://github.com/aplx-renz-sudo/JARVIS---Aplx/blob/main/file_000000004f4881fa9eb0fba8883f8ed4.png)
 
-## PREVIEW :-
+# PREVIEW :-
 
 ![Project Screenshot](https://github.com/aplx-renz-sudo/JARVIS---Aplx/blob/main/Screenshot%202026-07-19%20193938.png)
 
