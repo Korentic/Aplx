@@ -1,7 +1,12 @@
 # 『 ＡＰＬＸ　１．５ 』
+----------------------------------------------------------------------------------------------------------------------------------------------
+# ⚠️ISSUES SECTION⚠️
 
-## ＡＰＬＸ　ＬＬＭ　ＩＳ　ＣＵＲＲＥＮＴＬＹ　ＤＯＷＮ　ＡＮＤ　ＷＩＬＬ　ＮＯＴ　ＷＯＲＫ－　(Only the custom Aplx llm wont work) ＩＴ　ＩＳ　Ａ　ＴＥＣＨＮＩＣＡＬ　ＩＳＳＵＥ　ＦＲＯＭ　ＭＹ　ＳＩＤＥ！　ＰＬＥＡＳＥ　ＷＡＩＴ　ＵＮＴＩＬ　ＩＴ　ＩＳ　ＵＰ　ＡＧＡＩＮ！ ( THIS WONT WORK ON ANY DEVICES SINCE THE "aplx_test.py" IS MISSING AND I SWITCHED OS AND FORGOT TO SAVE IT, PLEASE WAIT UNTIL I RECOVER IT! Also to remove the confusion, every other functions and AI will work fine, except the aplx llm, since its the main issue currently)
+# ⚠️ＡＰＬＸ　ＬＬＭ　ＩＳ　ＣＵＲＲＥＮＴＬＹ　ＤＯＷＮ　ＡＮＤ　ＷＩＬＬ　ＮＯＴ　ＷＯＲＫ－　(Only the custom Aplx llm wont work) ＩＴ　ＩＳ　Ａ　ＴＥＣＨＮＩＣＡＬ　ＩＳＳＵＥ　ＦＲＯＭ　ＭＹ　ＳＩＤＥ！　ＰＬＥＡＳＥ　ＷＡＩＴ　ＵＮＴＩＬ　ＩＴ　ＩＳ　ＵＰ　ＡＧＡＩＮ！ ( THIS WONT WORK ON ANY DEVICES SINCE THE "aplx_test.py" IS MISSING AND I SWITCHED OS AND FORGOT TO SAVE IT, PLEASE WAIT UNTIL I RECOVER IT! Also to remove the confusion, every other functions and AI will work fine, except the aplx llm, since its the main issue currently) ⚠️
 
+# -Thank you for your cooperation during this downtime, I will try and get it up ASAP!
+# - R3nz
+----------------------------------------------------------------------------------------------------------------------------------------------
 ## LOGO :-
 
 ![Project Screenshot](https://github.com/aplx-renz-sudo/JARVIS---Aplx/blob/main/file_000000004f4881fa9eb0fba8883f8ed4.png)
