@@ -2,25 +2,26 @@
 ----------------------------------------------------------------------------------------------------------------------------------------------
 # ⚠️ Issues section ⚠️
 
-# The Aplx LLM is temporarily unavailable.
+ The Aplx LLM is temporarily unavailable.
 
-# While switching operating systems, the aplx_test.py file was accidentally lost and is currently being recovered.
+While switching operating systems, the aplx_test.py file was accidentally lost and is currently being recovered.
 
-# Affected ❌ :
+ Affected ❌ :
 
-# ❌ Aplx LLM (currently unavailable)
+ ❌ Aplx LLM (currently unavailable)
 
-# Still Working ✅ :
+ Still Working ✅ :
 
-# ✅ All other AI features
-# ✅ Terminal commands
-# ✅ External AI integrations
-# ✅ Other project functionality
+ ✅ All other AI features
+ ✅ Terminal commands
+ ✅ External AI integrations
+ ✅ Other project functionality
 
-# I'm working on restoring the missing file ASAP! Thank you for your patience.
+ I'm working on restoring the missing file ASAP! Thank you for your patience.
 
-# - R3nz
+ - R3nz
 ----------------------------------------------------------------------------------------------------------------------------------------------
+
 # LOGO :-
 
 ![Project Screenshot](https://github.com/aplx-renz-sudo/JARVIS---Aplx/blob/main/file_000000004f4881fa9eb0fba8883f8ed4.png)
