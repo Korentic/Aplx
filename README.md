@@ -24,7 +24,7 @@ While switching operating systems, the aplx_test.py file was accidentally lost a
 
 # LOGO :-
 
-![Project Screenshot](https://github.com/aplx-renz-sudo/JARVIS---Aplx/blob/main/file_000000004f4881fa9eb0fba8883f8ed4.png)
+![Project Screenshot](https://github.com/Korentic/Aplx/blob/main/Copy%20of%20Black%20White%20Minimal%20Simple%20Handwritten%20Dynamic%20Studio%20Logo.png)
 
 # PREVIEW :-
 
