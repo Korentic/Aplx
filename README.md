@@ -1,5 +1,7 @@
 # 『 ＡＰＬＸ　１．５ 』
 
+## ＡＰＬＸ　ＬＬＭ　ＩＳ　ＣＵＲＲＥＮＴＬＹ　ＤＯＷＮ　ＡＮＤ　ＷＩＬＬ　ＮＯＴ　ＷＯＲＫ－　ＩＴ　ＩＳ　Ａ　ＴＥＣＨＮＩＣＡＬ　ＩＳＳＵＥ　ＦＲＯＭ　ＭＹ　ＳＩＤＥ！　ＰＬＥＡＳＥ　ＷＡＩＴ　ＵＮＴＩＬ　ＩＴ　ＩＳ　ＵＰ　ＡＧＡＩＮ！
+
 ## LOGO :-
 
 ![Project Screenshot](https://github.com/aplx-renz-sudo/JARVIS---Aplx/blob/main/file_000000004f4881fa9eb0fba8883f8ed4.png)
