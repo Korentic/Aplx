@@ -6,6 +6,8 @@
 
 ### ✨ Aplx coming in!✨
 
+![Project Screenshot](https://github.com/Korentic/Aplx/blob/main/Copy%20of%20Black%20White%20Minimal%20Simple%20Handwritten%20Dynamic%20Studio%20Logo.png)
+
 
 ## <span class="neon-header">⚡ WHAT IS APLX?</span>
 
@@ -113,7 +115,7 @@ python -m aplx
 ---
 
 ### Made by <span class="neon-cyan">R3nz</span> 
-First-year student | Solo indie dev | Terminal enthusiast | Probably using too much coffee and monster
+PU First-year student | Solo indie dev | Terminal enthusiast | Probably using too much coffee and monster
 
 </div>
 
