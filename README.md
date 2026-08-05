@@ -112,8 +112,8 @@ python -m aplx
 
 ---
 
-### Made by <span class="neon-cyan">R3nz</span> (aka Ayush)
-First-year student | Solo indie dev | Terminal enthusiast | Probably using too much coffee ☕
+### Made by <span class="neon-cyan">R3nz</span> 
+First-year student | Solo indie dev | Terminal enthusiast | Probably using too much coffee and monster
 
 </div>
 
@@ -134,6 +134,6 @@ First-year student | Solo indie dev | Terminal enthusiast | Probably using too m
 
 <span class="star">⭐</span> <span class="star">✨</span> <span class="star">🌟</span> <span class="star">✨</span> <span class="star">⭐</span>
 
-_Terminal AI from the cosmos, broadcasting live from Bangalore_
+_Terminal AI from the cosmos_
 
 </div>
