@@ -6,45 +6,6 @@
 
 ### ✨ Aplx coming in!✨
 
-</div>
-
-<style>
-  .space-container {
-    background: linear-gradient(135deg, #0a0e27 0%, #1a1a3e 50%, #0d1b2a 100%);
-    border-radius: 12px;
-    padding: 20px;
-    margin: 20px 0;
-    border: 2px solid #00ff88;
-    box-shadow: 0 0 20px rgba(0, 255, 136, 0.3);
-    color: #00ff88;
-    font-family: 'Courier New', monospace;
-  }
-  
-  .neon-header {
-    color: #00ff88;
-    text-shadow: 0 0 10px #00ff88, 0 0 20px #00ff88;
-    font-family: 'Courier New', monospace;
-    font-weight: bold;
-  }
-  
-  .neon-purple {
-    color: #ff00ff;
-    text-shadow: 0 0 10px #ff00ff;
-  }
-  
-  .neon-cyan {
-    color: #00ffff;
-    text-shadow: 0 0 10px #00ffff;
-  }
-  
-  .star {
-    display: inline-block;
-    color: #ffff00;
-    margin: 0 2px;
-  }
-</style>
-
-<div class="space-container">
 
 ## <span class="neon-header">⚡ WHAT IS APLX?</span>
 
