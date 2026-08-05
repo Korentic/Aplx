@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=28&duration=3000&color=00FF88&center=true&lines=🚀+APLX;TERMINAL+AI+ASSISTANT;PURE+PYTHON+ARCHITECTURE;SUDO+LEVEL+INTELLIGENCE" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=28&duration=3000&color=00FF88&center=true&lines=🚀+APLX;TERMINAL+AI+ASSISTANT;PURE+PYTHON+ARCHITECTURE;PURE+SOLO+DEV" alt="Typing SVG" />
 
 ---
 
