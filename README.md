@@ -1,206 +1,180 @@
-## 『 ＡＰＬＸ　１．５ 』
-----------------------------------------------------------------------------------------------------------------------------------------------
-# ⚠️ Issues section ⚠️
+<div align="center">
 
- Alright so, small issue. LLM is bugged as hell (CUSTOM APLX LLM ONLY, REST OTHER WORKS FINE). I have  been trying to resolve the LLM issue from the past 10 DAYS even tho im mid exam, so the V1.6 update *WILL NOT* have the custom Aplx LLM.
-
- Once again apologising for this error from my side.
-
- your dev
-
- -R3nz
- 
-----------------------------------------------------------------------------------------------------------------------------------------------
-
-# LOGO :-
-
-![Project Screenshot](https://github.com/Korentic/Aplx/blob/main/Copy%20of%20Black%20White%20Minimal%20Simple%20Handwritten%20Dynamic%20Studio%20Logo.png)
-
-# PREVIEW :-
-
-![Project Screenshot](https://github.com/aplx-renz-sudo/JARVIS---Aplx/blob/main/Screenshot%202026-07-19%20193938.png)
-
-
-
-🚀 Aplx - Terminal AI Assistant
-
-Aplx is a lightweight, privacy-first terminal-based AI assistant with a hybrid online/offline architecture, cross-platform support, and a fully customizable ANSI theme engine.
-
-> **Built for developers who want AI that's fast, local-first, and actually listens.**
+<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=28&duration=3000&color=00FF88&center=true&lines=🚀+APLX;TERMINAL+AI+ASSISTANT;PURE+PYTHON+ARCHITECTURE;SUDO+LEVEL+INTELLIGENCE" alt="Typing SVG" />
 
 ---
 
-✨ Features
+### ✨ Aplx coming in!✨
 
-🧠 Hybrid Online/Offline Architecture
+</div>
 
-Ollama-primary: Run powerful models locally (llama3.2, mistral, etc.)
-Multi-provider fallback: Seamless failover to OpenAI, Anthropic, Gemini, or DeepSeek if Ollama isn't running
-Privacy-first: API keys stored locally in environment variables—never transmitted through Aplx
-Zero telemetry: Your queries stay yours
+<style>
+  .space-container {
+    background: linear-gradient(135deg, #0a0e27 0%, #1a1a3e 50%, #0d1b2a 100%);
+    border-radius: 12px;
+    padding: 20px;
+    margin: 20px 0;
+    border: 2px solid #00ff88;
+    box-shadow: 0 0 20px rgba(0, 255, 136, 0.3);
+    color: #00ff88;
+    font-family: 'Courier New', monospace;
+  }
+  
+  .neon-header {
+    color: #00ff88;
+    text-shadow: 0 0 10px #00ff88, 0 0 20px #00ff88;
+    font-family: 'Courier New', monospace;
+    font-weight: bold;
+  }
+  
+  .neon-purple {
+    color: #ff00ff;
+    text-shadow: 0 0 10px #ff00ff;
+  }
+  
+  .neon-cyan {
+    color: #00ffff;
+    text-shadow: 0 0 10px #00ffff;
+  }
+  
+  .star {
+    display: inline-block;
+    color: #ffff00;
+    margin: 0 2px;
+  }
+</style>
 
-🎨 Advanced ANSI Theme Engine
+<div class="space-container">
 
-Named gradient presets (`cyber`, `ocean`, `sunset`, etc.)
-Hex color support for full customization
-Persistent theme configuration
-Real-time syntax highlighting for code outputs
+## <span class="neon-header">⚡ WHAT IS APLX?</span>
 
-💾 Cross-Platform Storage Manager
+<span class="neon-cyan">Aplx</span> is a **terminal-based AI assistant** built in pure Python. No dependencies chaos, no bloat—just clean architecture and raw computational power. Think of it as your **sudo-level AI** that runs in the terminal and actually respects your system.
 
-Windows: `%APPDATA%\Aplx\data`
-macOS: `~/Library/Application Support/Aplx`
-Linux: `~/.aplx_data`
-Android (Termux): Automatic detection & fallback paths
-Smart storage allocation with disk usage tracking
+Built by a solo indie dev who actually cares about how the code flows.
 
-💬 Dual-Mode Interface
-
-Chat mode: Natural conversations with context awareness
-Code mode(STILL IN BETA TESTING!): Specialized responses for programming tasks
-Support for Python, JavaScript, TypeScript, C++, Rust, Go, and more
-Syntax highlighting & keyword detection across 10+ languages
-
-🧪 Self-Teaching & Learning
-
-Autonomous knowledge acquisition
-Feedback-driven improvements
-Language skill analysis (clarity, tone, complexity)
-Proactive self-upgrade detection
-
-⚡ CLI & File I/O
-
-```bash
-
-# Interactive mode
-
-python aplx_1_5.py
-
-
-# Query mode
-
-python aplx_1_5.py --query "explain quantum computing" --mode chat
-
-
-# Code mode(BETA)
-
-python aplx_1_5.py --query "write a fibonacci function" --mode code
-
-
-# File I/O (C++ integration, BETA)
-
-python aplx_1_5.py --input query.txt --output response.txt
-
-```
-
-🛠️ Installation
-
-Requirements
-
-Python 3.8+
-`ollama` (optional, but recommended)
-`psutil` (optional, for system monitoring)
-
-Setup
-
-```bash
-
-# install and run
-
-Install the files from here
-
-Place the aplx_1.5.py file within the desktop (mostly preferred) for easier access
-
-Have python intalled along with ollama
-
-And then open the terminal and
-
-Run Aplx
-
-python aplx_1_5.py
-
-```
-
-📦 Architecture
-
-Core Components
-
-StorageManager
-
-Handles cross-platform file paths
-Tracks storage allocation
-Auto-detects platform (Windows/Mac/Linux/Android)
-
-Hybrid LLM System
-
-Primary: Ollama (local execution)
-Fallback 1: OpenAI API
-Fallback 2: Anthropic API
-Fallback 3: Gemini API
-Fallback 4: DeepSeek API
-
-Language Support
-
-Python, JavaScript, TypeScript, Java, C++, C, C#, Go, Rust, Ruby, PHP, Swift, Kotlin, HTML, CSS, SQL, Bash, Lua, Assembly, GDScript
-
-Theme Engine
-
-Named gradients
-Hex color parsing
-ANSI sequence generation
-Persistent configuration
-
-🔒 Privacy & Security
-
-✅ Offline-first: Models run locally via Ollama
-
-✅ No data transmission: Queries never leave your machine unless you explicitly use an API
-
-✅ Environment-based auth: API keys loaded from `.env` or system variables
-
-✅ MIT Licensed: Fully open-source & auditable
-
-🎯 Use Cases
-
-Daily development assistant: Code review, debugging, snippets
-Local knowledge base: Self-teach while offline
-Privacy-conscious workflows: Healthcare, finance, legal
-Terminal power users: No bloated UIs, pure CLI
-Mobile development: Full Termux/Android support
-
-📊 Performance
-
-| Feature | Status |
-|---------|--------|
-| Ollama integration | ✅ Full |
-| Multi-provider fallback | ✅ Full |
-| Theme engine | ✅ Full (named gradients + hex) |
-| Cross-platform | ✅ Windows, Mac, Linux, Android |
-| Self-teaching | ✅ Full |
-| CLI interface | ✅ Full |
-
-🚀 What's Next (v1.6)
-
-[ ] Expanded color config builder
-[ ] Multi-language UI support
-[ ] Interactive persona editor
-[ ] Web search integration
-[ ] Plugin system
-
-📝 License
-
-MIT License - see LICENSE file for details
-
-✨CODEX AND GPT-5.6 USEAGE AREA✨ 
-
-I used GPT-5.6 through Codex to help implement and debug major features like the command system, project management, theme customization, model switching, and bug fixes.
-GPT-5.6 also helped review architecture decisions, improve code quality!
-
-## 『ＴＨＩＳ　ＩＳ　ＴＨＥ　ＮＥＸＴ　ＢＩＧＧＥＳＴ　ＵＰＤＡＴＥ　ＡＦＴＥＲ　Ｖ１．２　（ＵＩ　ＯＶＥＲＨＡＵＬ　[ＯＬＤ])』
+</div>
 
 ---
-MΛDΣ BY,
 
-𝚢𝚘𝚞𝚛𝚜 𝚊𝚗𝚍 𝚘𝚗𝚕𝚢,
+### <span class="neon-purple">🌌 CORE FEATURES</span>
 
-ʀ3ռʐ 
+```
+✨ Pure Python architecture      (zero nonsense, maximum control)
+🔧 Terminal-native design        (live in your CLI like a god)
+🚀 Async-first internals         (concurrent tasks at light speed)
+💾 Smart caching layer           (don't repeat cosmic calculations)
+🎯 Modular plugin system         (extend without breaking shit)
+🔐 Privacy-first approach        (your data, your rules)
+```
+
+---
+
+<div class="space-container">
+
+## <span class="neon-header">🛸 TECH STACK</span>
+
+- **Language:** Pure Python 3.9+
+- **Architecture:** Async-based with clean separation of concerns
+- **UI:** Terminal-first (uses modern terminal features)
+- **Focus:** Code quality, maintainability, actual good design patterns
+- **Dev Style:** Solo indie — no corporate bloat, just vibes and velocity
+
+</div>
+
+---
+
+### <span class="neon-cyan">📍 ORIGIN STORY</span>
+
+<div style="background: rgba(0, 255, 136, 0.1); padding: 15px; border-left: 3px solid #00ff88; margin: 15px 0; border-radius: 5px;">
+
+Building from **Bangalore, Karnataka** 🇮🇳  
+Started: When the vibes were right  
+Status: Currently in orbit, actively developing  
+Age: 16 years of pure chaos and learning  
+
+This is what happens when you give a teenager access to Python and zero fear of starting from scratch.
+
+</div>
+
+---
+
+## <span class="neon-purple">🎮 THE VISION</span>
+
+Most AI assistants are web apps trying to be desktop. Aplx is different:
+
+1. **Terminal native** — not a compromise, it's THE environment
+2. **Lightweight & fast** — respects your system resources
+3. **Extensible** — plugins for literally anything
+4. **Privacy obsessed** — what runs locally, stays local
+5. **Architect-focused** — built by someone who actually thinks about design
+
+---
+
+<div class="space-container">
+
+## <span class="neon-header">🚀 GETTING STARTED</span>
+
+```bash
+# Clone the cosmos
+git clone https://github.com/r3nz/aplx.git
+cd aplx
+
+# Install dependencies (minimal, I promise)
+pip install -r requirements.txt
+
+# Run it
+python -m aplx
+
+# Boom. You're in the terminal with an AI that actually listens.
+```
+
+**Note:** Still in active development. Features are being added at light speed.
+
+</div>
+
+---
+
+### <span class="neon-cyan">🔮 ROADMAP (THE FUTURE IS NOW)</span>
+
+- [ ] Full plugin marketplace
+- [ ] Custom model integration
+- [ ] Advanced context management
+- [ ] Multi-modal input handling
+- [ ] Cloud sync (optional, your choice)
+- [ ] Community-driven extensions
+
+---
+
+<div style="background: linear-gradient(135deg, rgba(0, 255, 255, 0.1), rgba(255, 0, 255, 0.1)); padding: 20px; border-radius: 10px; margin: 20px 0; text-align: center;">
+
+<span class="neon-cyan">**Built with pure Python energy** ✨</span>  
+<span class="neon-purple">**No corporate compromises** 🚀</span>  
+<span class="neon-header">**Just clean code and vibes** 🌌</span>
+
+---
+
+### Made by <span class="neon-cyan">R3nz</span> (aka Ayush)
+First-year student | Solo indie dev | Terminal enthusiast | Probably using too much coffee ☕
+
+</div>
+
+---
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-r3nz-00ff88?style=for-the-badge&logo=github)](https://github.com/r3nz)
+[![Python](https://img.shields.io/badge/Python-3.9+-00ffff?style=for-the-badge&logo=python)](https://python.org)
+[![Status](https://img.shields.io/badge/Status-Active-ff00ff?style=for-the-badge)]()
+[![License](https://img.shields.io/badge/License-MIT-00ff88?style=for-the-badge)](LICENSE)
+
+</div>
+
+---
+
+<div align="center">
+
+<span class="star">⭐</span> <span class="star">✨</span> <span class="star">🌟</span> <span class="star">✨</span> <span class="star">⭐</span>
+
+_Terminal AI from the cosmos, broadcasting live from Bangalore_
+
+</div>
