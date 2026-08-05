@@ -47,11 +47,9 @@ Built by a solo indie dev who actually cares about how the code flows.
 ### <span class="neon-cyan">📍 ORIGIN STORY</span>
 
 <div style="background: rgba(0, 255, 136, 0.1); padding: 15px; border-left: 3px solid #00ff88; margin: 15px 0; border-radius: 5px;">
-
-Building from **Bangalore, Karnataka** 🇮🇳  
+ 
 Started: When the vibes were right  
-Status: Currently in orbit, actively developing  
-Age: 16 years of pure chaos and learning  
+Status: Currently in orbit, actively developing    
 
 This is what happens when you give a teenager access to Python and zero fear of starting from scratch.
 
