@@ -2,24 +2,14 @@
 ----------------------------------------------------------------------------------------------------------------------------------------------
 # ⚠️ Issues section ⚠️
 
- The Aplx LLM is temporarily unavailable.
+ Alright so, small issue. LLM is bugged as hell (CUSTOM APLX LLM ONLY, REST OTHER WORKS FINE). I have  been trying to resolve the LLM issue from the past 10 DAYS even tho im mid exam, so the V1.6 update *WILL NOT* have the custom Aplx LLM.
 
-While switching operating systems, the aplx_test.py file was accidentally lost and is currently being recovered.
+ Once again apologising for this error from my side.
 
- Affected ❌ :
+ your dev
 
- ❌ Aplx LLM (currently unavailable)
-
- Still Working ✅ :
-
- ✅ All other AI features
- ✅ Terminal commands
- ✅ External AI integrations
- ✅ Other project functionality
-
- I'm working on restoring the missing file ASAP! Thank you for your patience.
-
- - R3nz
+ -R3nz
+ 
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
 # LOGO :-
