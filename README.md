@@ -23,6 +23,7 @@ Currently Aplx LLM will *not* work because of an error from *my* side due to the
 So for the next V1.6, Aplx LLM WILL *NOT* be included (it will be, but wont work, and, rest other features will work fine).
 
 Thanks for *your* patience.
+
 -R3nz
 
 
@@ -63,7 +64,7 @@ Thanks for *your* patience.
 Started: When the vibes were right  
 Status: Currently in orbit, actively developing    
 
-This is what happens when you give a teenager access to Python and zero fear of starting from scratch.
+
 
 </div>
 
