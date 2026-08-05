@@ -17,6 +17,16 @@ Built by a solo indie dev who actually cares about how the code flows.
 
 </div>
 
+# ISSUES!
+Currently Aplx LLM will *not* work because of an error from *my* side due to the files being lost/deleted while switching OS.
+
+So for the next V1.6, Aplx LLM WILL *NOT* be included (it will be, but wont work, and, rest other features will work fine).
+
+Thanks for *your* patience.
+-R3nz
+
+
+
 ---
 
 ### <span class="neon-purple">🌌 CORE FEATURES</span>
