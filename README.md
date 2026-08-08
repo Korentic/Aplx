@@ -134,7 +134,7 @@ PU First-year student | Solo indie dev | Terminal enthusiast | Probably using to
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-r3nz-00ff88?style=for-the-badge&logo=github)](https://github.com/r3nz)
+[![GitHub](https://img.shields.io/badge/GitHub-r3nz-00ff88?style=for-the-badge&logo=github)](https://github.com/aplx-renz-sudo)
 [![Python](https://img.shields.io/badge/Python-3.9+-00ffff?style=for-the-badge&logo=python)](https://python.org)
 [![Status](https://img.shields.io/badge/Status-Active-ff00ff?style=for-the-badge)]()
 [![License](https://img.shields.io/badge/License-MIT-00ff88?style=for-the-badge)](LICENSE)
