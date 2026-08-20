@@ -4,6 +4,8 @@
 
 ---
 
+## V1.6 *coming soon*? 👀👀👀
+
 ### ✨ Aplx coming in!✨
 
 ![Project Screenshot](https://github.com/Korentic/Aplx/blob/main/Copy%20of%20Black%20White%20Minimal%20Simple%20Handwritten%20Dynamic%20Studio%20Logo.png)
