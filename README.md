@@ -1,6 +1,8 @@
-# Aplx AI v1.6
+# Aplx Dock v1.6
 
-Aplx AI is a lightweight AI assistant built around local and online AI providers, with support for coding, chat, learning, model selection, and developer-focused workflows.
+https://github.com/user-attachments/assets/94dfa244-4af4-433f-ac19-668e77e9bd
+
+Aplx AI is a lightweight AI assistant built around local and online AI providers, with support for coding, chat, learning, model selection, and developer-focused workflows. (Basically, your personal dock)
 
 ## What's new in v1.6
 
@@ -292,8 +294,19 @@ See `LICENSE` for the complete license text.
 
 ---
 
-**Aplx AI v1.6**
+**Aplx Dock v1.6**
 
 Built to be flexible.  
 Built to run locally.  
 Built to keep getting better.
+
+[![GitHub](https://img.shields.io/badge/GitHub-r3nz-00ff88?style=for-the-badge&logo=github)](https://github.com/aplx-renz-sudo)
+[![Python](https://img.shields.io/badge/Python-3.9+-00ffff?style=for-the-badge&logo=python)](https://python.org)
+[![Status](https://img.shields.io/badge/Status-Active-ff00ff?style=for-the-badge)]()
+[![License](https://img.shields.io/badge/License-MIT-00ff88?style=for-the-badge)](LICENSE)
+
+
+
+
+
+
