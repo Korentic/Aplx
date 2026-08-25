@@ -3,6 +3,9 @@
 # LOGO:
 <img src="https://github.com/Korentic/Aplx/blob/main/Black%20White%20Simple%20Modern%20Neon%20Griddy%20Bold%20Technology%20Pixel%20Electronics%20Store%20Logo(2).png" alt="App Screenshot" width="500">
 
+# PREVIEW:
+
+<img src="https://github.com/Korentic/Aplx/blob/main/Screenshot_2026-08-25_20-10-49.png" alt="App Screenshot" width="500">
 
 Aplx AI is a lightweight AI assistant built around local and online AI providers, with support for coding, chat, learning, model selection, and developer-focused workflows. (Basically, your personal dock) (ps, llm still not working :( but other features will work as usual)
 
