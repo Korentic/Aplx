@@ -14,6 +14,7 @@ v1.6 is focused on making Aplx more reliable, modular, and useful as a developer
 
 Its a little surprise but to be honest, its quite big, i have been working on it from V1.6, yes, V1.7 was in development even when V1.6 was still being made.. A little hint.. its another MASSIVE update, and last ever version for V1.x, because, next, IS V2, HELL YEAHH!
 
+
 ### Model Switcher
 
 Aplx v1.6 introduces a flexible multi-model orchestration system.
