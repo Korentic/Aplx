@@ -1,4 +1,4 @@
-# Aplx Dock v1.6
+# 𝒜𝓅𝓁𝓍 𝒟𝑜𝒸𝓀 𝒱𝟣.𝟨
 
 <img src="https://github.com/Korentic/Aplx/blob/main/Black%20White%20Simple%20Modern%20Neon%20Griddy%20Bold%20Technology%20Pixel%20Electronics%20Store%20Logo(2).png" alt="App Screenshot" width="500">
 
@@ -7,7 +7,7 @@ Aplx AI is a lightweight AI assistant built around local and online AI providers
 
 ## What's new in v1.6
 
-v1.6 is focused on making Aplx more reliable, modular, and useful as a developer assistant.
+v1.6 is focused on making Aplx more reliable, modular, and useful as a developer assistant, WITH AN ALL NEW TOKEN SAVER (Beta) AND A MODEL SWITCHER (!STILL IN TESTING!)
 
 ### Model Switcher
 
@@ -300,6 +300,9 @@ See `LICENSE` for the complete license text.
 Built to be flexible.  
 Built to run locally.  
 Built to keep getting better.
+
+Yours truly
+R3ɳȥ ツ
 
 [![GitHub](https://img.shields.io/badge/GitHub-r3nz-00ff88?style=for-the-badge&logo=github)](https://github.com/aplx-renz-sudo)
 [![Python](https://img.shields.io/badge/Python-3.9+-00ffff?style=for-the-badge&logo=python)](https://python.org)
