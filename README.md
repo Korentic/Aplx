@@ -1,6 +1,7 @@
 # Aplx Dock v1.6
 
-https://github.com/user-attachments/assets/94dfa244-4af4-433f-ac19-668e77e9bd
+<video src="https://github.com/user-attachments/assets/94dfa244-4af4-433f-ac19-668e77e9bd" width="100%" controls></video>
+
 
 Aplx AI is a lightweight AI assistant built around local and online AI providers, with support for coding, chat, learning, model selection, and developer-focused workflows. (Basically, your personal dock)
 
