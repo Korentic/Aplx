@@ -1,5 +1,6 @@
-# 𝒜𝓅𝓁𝓍 𝒟𝑜𝒸𝓀 𝒱𝟣.𝟨
+## 𝒜𝓅𝓁𝓍 𝒟𝑜𝒸𝓀 𝒱𝟣.𝟨
 
+# LOGO:
 <img src="https://github.com/Korentic/Aplx/blob/main/Black%20White%20Simple%20Modern%20Neon%20Griddy%20Bold%20Technology%20Pixel%20Electronics%20Store%20Logo(2).png" alt="App Screenshot" width="500">
 
 
