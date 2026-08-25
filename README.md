@@ -76,6 +76,8 @@ python aplx_1.6.py --filter --query "your prompt"
 
 The standalone `aplx_filter.py` module contains the TokenFilter implementation.
 
+(ps, to enable it, just type /token , your welcome :D )
+
 ### Ollama improvements
 
 Ollama handling has been hardened for different installation and package configurations.
