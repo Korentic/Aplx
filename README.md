@@ -295,13 +295,13 @@ See `LICENSE` for the complete license text.
 
 ---
 
-**Aplx Dock v1.6**
+**𝓐𝓹𝓵𝔁 𝓥1.6 𝓓𝓸𝓬𝓴**
 
 Built to be flexible.  
 Built to run locally.  
 Built to keep getting better.
 
-Yours truly
+Ｙｏｕｒｓ　Ｔｒｕｌｙ
 
 R3ɳȥ ツ
 
