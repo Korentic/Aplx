@@ -4,11 +4,15 @@
 <img src="https://github.com/Korentic/Aplx/blob/main/Black%20White%20Simple%20Modern%20Neon%20Griddy%20Bold%20Technology%20Pixel%20Electronics%20Store%20Logo(2).png" alt="App Screenshot" width="500">
 
 
-Aplx AI is a lightweight AI assistant built around local and online AI providers, with support for coding, chat, learning, model selection, and developer-focused workflows. (Basically, your personal dock)
+Aplx AI is a lightweight AI assistant built around local and online AI providers, with support for coding, chat, learning, model selection, and developer-focused workflows. (Basically, your personal dock) (ps, llm still not working :( but other features will work as usual)
 
 ## What's new in v1.6
 
 v1.6 is focused on making Aplx more reliable, modular, and useful as a developer assistant, WITH AN ALL NEW TOKEN SAVER (Beta) AND A MODEL SWITCHER (!STILL IN TESTING!)
+
+## NEXT?
+
+Its a little surprise but to be honest, its quite big, i have been working on it from V1.6, yes, V1.7 was in development even when V1.6 was still being made.. A little hint.. its another MASSIVE update, and last ever version for V1.x, because, next, IS V2, HELL YEAHH!
 
 ### Model Switcher
 
