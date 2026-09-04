@@ -15,7 +15,7 @@ v1.6 is focused on making Aplx more reliable, modular, and useful as a developer
 
 ## NEXT?
 
-Its a little surprise but to be honest, its quite big, i have been working on it from V1.6, yes, V1.7 was in development even when V1.6 was still being made.. A little hint.. its another MASSIVE update, and last ever version for V1.x, because, next, IS V2, HELL YEAHH!
+Its a little surprise but to be honest, its quite big, i have been working on it from V1.6, yes, V1.7 was in development even when V1.6 was still being made.. A little hint.. its another MASSIVE update, and last ever version for V1.x, because, next, IS V2, HELL YEAHH! After careful consideration, V1.7, will infact be the FINAL CLI (Terminal) version, and this repository will no longer get updates. Apologies for this news..
 
 
 ### Model Switcher
